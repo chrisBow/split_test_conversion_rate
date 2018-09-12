@@ -1,0 +1,3 @@
+A basic wokflow for simple A/B test analysis and significance testing.
+
+This workflow was created initially to analyse the results from an A/B split test of two campaigns using different automated bidding strategies in Google Ads.
